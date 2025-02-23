@@ -53,10 +53,10 @@ class _MainPageState extends State<MainPage> {
     var iconItem = [
       Icons.home,
       Icons.category_outlined,
-      Icons.info_outline,
+      Icons.save_as_outlined,
       Icons.account_box_outlined
     ];
-    var labelItem = ['หน้าหลัก', 'หมวดหมู่', 'สาระน่ารู้', 'โปรไฟล์'];
+    var labelItem = ['หน้าหลัก', 'หมวดหมู่', 'ที่บันทึกไว้', 'โปรไฟล์'];
     var bgColorItem = [Colors.deepPurple, Colors.indigo, Colors.teal, Colors.brown];
 
     BottomNavigationBarItem createItem(int index) {
