@@ -18,6 +18,7 @@ class _CategoryDetailState extends State<CategoryDetail> {
         .toList();
 
     return Scaffold(
+      backgroundColor: const Color.fromARGB(255, 255, 193, 170),
       appBar: AppBar(
         title: Text('เมนูระดับ ${widget.star} ดาว'),
         backgroundColor: const Color.fromARGB(255, 158, 98, 76),
