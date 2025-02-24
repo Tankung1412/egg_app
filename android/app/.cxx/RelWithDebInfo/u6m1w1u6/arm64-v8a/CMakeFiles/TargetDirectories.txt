@@ -1,0 +1,2 @@
+C:/eggtopia/egg_app/android/app/.cxx/RelWithDebInfo/u6m1w1u6/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/eggtopia/egg_app/android/app/.cxx/RelWithDebInfo/u6m1w1u6/arm64-v8a/CMakeFiles/rebuild_cache.dir

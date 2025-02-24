@@ -1,0 +1,2 @@
+C:/eggtopia/egg_app/android/app/.cxx/Debug/3y414s15/x86/CMakeFiles/edit_cache.dir
+C:/eggtopia/egg_app/android/app/.cxx/Debug/3y414s15/x86/CMakeFiles/rebuild_cache.dir
